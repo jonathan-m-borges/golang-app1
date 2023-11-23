@@ -1,0 +1,2 @@
+@host = http://172.24.253.136:8888
+GET {{host}}/order

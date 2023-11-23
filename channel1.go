@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func main() {
+func mainx() {
 	canal := make(chan int)
 
 	go produtor(canal, "P1")
